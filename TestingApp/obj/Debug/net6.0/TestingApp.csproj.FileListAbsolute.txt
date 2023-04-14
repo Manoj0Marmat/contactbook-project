@@ -1,0 +1,5 @@
+C:\Users\manojm\source\repos\ContactBookLibrary\TestingApp\obj\Debug\net6.0\TestingApp.csproj.AssemblyReference.cache
+C:\Users\manojm\source\repos\ContactBookLibrary\TestingApp\obj\Debug\net6.0\TestingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manojm\source\repos\ContactBookLibrary\TestingApp\obj\Debug\net6.0\TestingApp.AssemblyInfoInputs.cache
+C:\Users\manojm\source\repos\ContactBookLibrary\TestingApp\obj\Debug\net6.0\TestingApp.AssemblyInfo.cs
+C:\Users\manojm\source\repos\ContactBookLibrary\TestingApp\obj\Debug\net6.0\TestingApp.csproj.CoreCompileInputs.cache
