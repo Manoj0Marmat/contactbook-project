@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "5vW0s6CcW2LwQLhmcNxglPcG2DV7D0/kBlJDJiWMy8zs99K9xCaP2GjfrFrFfR9A3hi9srfb7lGgr90OigyW3g==",
+  "dgSpecHash": "C1fAAu9KIKEm64mb4jhLQUXHxdiZmDYt94eLUhvbPvvIWHDL/msuqbuZXHHxWeg+5dUQeDIVl1d+leCcQFVI6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\manojm\\source\\repos\\ContactBookLibrary\\ContactBookLibrary\\ContactOldLib.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/manojmarmat/Downloads/workspace/contactbook-project/ContactBookLibrary/ContactOldLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/manojmarmat/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/manojmarmat/.nuget/packages/oracle.manageddataaccess.core/3.21.100/oracle.manageddataaccess.core.3.21.100.nupkg.sha512",
+    "/Users/manojmarmat/.nuget/packages/system.configuration.configurationmanager/6.0.0/system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "/Users/manojmarmat/.nuget/packages/system.diagnostics.performancecounter/6.0.1/system.diagnostics.performancecounter.6.0.1.nupkg.sha512",
+    "/Users/manojmarmat/.nuget/packages/system.directoryservices/6.0.1/system.directoryservices.6.0.1.nupkg.sha512",
+    "/Users/manojmarmat/.nuget/packages/system.directoryservices.protocols/6.0.1/system.directoryservices.protocols.6.0.1.nupkg.sha512",
+    "/Users/manojmarmat/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/Users/manojmarmat/.nuget/packages/system.security.accesscontrol/6.0.0/system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "/Users/manojmarmat/.nuget/packages/system.security.cryptography.protecteddata/6.0.0/system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "/Users/manojmarmat/.nuget/packages/system.security.permissions/6.0.0/system.security.permissions.6.0.0.nupkg.sha512",
+    "/Users/manojmarmat/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

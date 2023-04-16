@@ -1,39 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manojm\\source\\repos\\ContactBookLibrary\\ConsoleUI\\ConsoleUI.csproj": {}
+    "/Users/manojmarmat/Downloads/workspace/contactbook-project/ConsoleUI/ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manojm\\source\\repos\\ContactBookLibrary\\ConsoleUI\\ConsoleUI.csproj": {
+    "/Users/manojmarmat/Downloads/workspace/contactbook-project/ConsoleUI/ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manojm\\source\\repos\\ContactBookLibrary\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "/Users/manojmarmat/Downloads/workspace/contactbook-project/ConsoleUI/ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\manojm\\source\\repos\\ContactBookLibrary\\ConsoleUI\\ConsoleUI.csproj",
-        "packagesPath": "C:\\Users\\manojm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manojm\\source\\repos\\ContactBookLibrary\\ConsoleUI\\obj\\",
+        "projectPath": "/Users/manojmarmat/Downloads/workspace/contactbook-project/ConsoleUI/ConsoleUI.csproj",
+        "packagesPath": "/Users/manojmarmat/.nuget/packages/",
+        "outputPath": "/Users/manojmarmat/Downloads/workspace/contactbook-project/ConsoleUI/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\manojm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/manojmarmat/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\manojm\\source\\repos\\ContactBookLibrary\\ContactBookLibrary\\ContactOldLib.csproj": {
-                "projectPath": "C:\\Users\\manojm\\source\\repos\\ContactBookLibrary\\ContactBookLibrary\\ContactOldLib.csproj"
+              "/Users/manojmarmat/Downloads/workspace/contactbook-project/ContactBookLibrary/ContactOldLib.csproj": {
+                "projectPath": "/Users/manojmarmat/Downloads/workspace/contactbook-project/ContactBookLibrary/ContactOldLib.csproj"
               }
             }
           }
@@ -63,32 +58,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\manojm\\source\\repos\\ContactBookLibrary\\ContactBookLibrary\\ContactOldLib.csproj": {
+    "/Users/manojmarmat/Downloads/workspace/contactbook-project/ContactBookLibrary/ContactOldLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manojm\\source\\repos\\ContactBookLibrary\\ContactBookLibrary\\ContactOldLib.csproj",
+        "projectUniqueName": "/Users/manojmarmat/Downloads/workspace/contactbook-project/ContactBookLibrary/ContactOldLib.csproj",
         "projectName": "ContactOldLib",
-        "projectPath": "C:\\Users\\manojm\\source\\repos\\ContactBookLibrary\\ContactBookLibrary\\ContactOldLib.csproj",
-        "packagesPath": "C:\\Users\\manojm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manojm\\source\\repos\\ContactBookLibrary\\ContactBookLibrary\\obj\\",
+        "projectPath": "/Users/manojmarmat/Downloads/workspace/contactbook-project/ContactBookLibrary/ContactOldLib.csproj",
+        "packagesPath": "/Users/manojmarmat/.nuget/packages/",
+        "outputPath": "/Users/manojmarmat/Downloads/workspace/contactbook-project/ContactBookLibrary/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\manojm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/manojmarmat/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -106,6 +96,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.100, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -125,7 +121,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

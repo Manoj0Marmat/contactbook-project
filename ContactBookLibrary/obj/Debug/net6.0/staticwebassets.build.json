@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "rpjd8qJ8MrVbmfxS/YYcF7PqXaN1TXTEETBa83kgpiI=",
-  "Source": "ContactBookLibrary",
-  "BasePath": "_content/ContactBookLibrary",
+  "Hash": "TT6BCFSz7XzQR7tx58dLoqyw7ycFEX2JdTR+ERU0Ev0=",
+  "Source": "ContactOldLib",
+  "BasePath": "_content/ContactOldLib",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

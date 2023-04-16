@@ -13,11 +13,11 @@ namespace ContactBook
         public long PersonNumber { get; set; }
         public string PersonEmail { get; set; }
 
-        public Contact(string name, long number, string email)
+        public Contact(string personName, long personNumber, string personEmail)
         {
-            this.PersonName = name;
-            this.PersonNumber = number;
-            this.PersonEmail = email;
+            this.PersonName = personName;
+            this.PersonNumber = personNumber;
+            this.PersonEmail = personEmail;
         }
 
         public override string ToString()

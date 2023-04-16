@@ -11,8 +11,7 @@ namespace ContactBook
 {
     public class ContactBussiness
     {
-        OracleConnection oracleConnection = new OracleConnection("User Id=mars;Password=mars;Data Source=192.168.169.55:1600/IND83;");
-
+        OracleConnection oracleConnection = new OracleConnection("User Id=system;Password=oracle;Data Source=192.168.56.2:1521/free;");
         /// <summary>
         /// Adds a new contact to the contact book.
         /// </summary>

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleUI
-build_property.ProjectDir = C:\Users\manojm\source\repos\ContactBookLibrary\ConsoleUI\
+build_property.ProjectDir = /Users/manojmarmat/Downloads/workspace/contactbook-project/ConsoleUI/
